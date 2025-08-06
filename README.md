@@ -1,4 +1,4 @@
-# Laboratorio 3 - Teoría de la Computación
+# Laboratorio 4 - Teoría de la Computación
 
 ## Algoritmo de Thompson: Expresiones Regulares → AFN
 
