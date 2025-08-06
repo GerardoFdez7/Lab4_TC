@@ -1,0 +1,8 @@
+(a* | b*)+
+a,b,aa,bb,ab,ba,aaa,bbb,
+((ε | a) | b*)*
+,a,b,aa,bb,ab,ba,aaa,bbb
+(a | b)* abb (a | b)*
+abb,aabb,abba,aabba,babb,babba,a,b,ab
+0? (1?)? 0*
+,0,1,00,01,10,11,000,001,010,100
